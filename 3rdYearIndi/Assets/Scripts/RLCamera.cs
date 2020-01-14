@@ -27,4 +27,3 @@ public class RLCamera : MonoBehaviour
 }
 // *REMINDER REGAN* to get the Texture fully working place the texture on a object that has the rotation z -180 
 
-// This is probably going to be scrapped
