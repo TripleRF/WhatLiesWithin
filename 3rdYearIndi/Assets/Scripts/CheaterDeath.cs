@@ -9,8 +9,6 @@ public class CheaterDeath : MonoBehaviour
 {
     private KonamiCode code;
 
-    public Scene end_h;
-
     [SerializeField]
     private string sceneNameToLoad;
 
